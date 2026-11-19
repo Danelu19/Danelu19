@@ -9,6 +9,7 @@ I like solving complex problems with data, code and AI · from research papers a
 - 🏆 1st place - Q-Evolution Hackathon 2026 · 2nd place - IAckathon 2023
 - 👩‍💻 Former President of the IEEE Computer Society Student Chapter at Yachay Tech
 - 📍 Ibarra, Ecuador · 🗣️ Spanish (native) · English (B2) · French (A1-A2)
+- 🌐 More about me at **[danelu19.github.io](https://danelu19.github.io)**
 
 ### 🧰 Tech stack
 
@@ -40,5 +41,6 @@ I like solving complex problems with data, code and AI · from research papers a
 
 ### 🤝 Connect
 
+[![Website](https://img.shields.io/badge/Website-danelu19.github.io-435A3A?logo=githubpages&logoColor=white)](https://danelu19.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danelysanchez)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=G9mX8W4AAAAJ)
