@@ -6,7 +6,7 @@ I like solving complex problems with data, code and AI · from research papers a
 - 🔨 Building AI products at **Digevo Ventures** (remote)
 - 🎓 Master's in Cybersecurity at **UNIR** (Spain) · B.Sc. in IT from **Yachay Tech** (Ecuador)
 - 🌎 Exchange at **Universidad de Concepción** (Chile) · data analysis & statistical inference
-- 🏆 1st place — Q-Evolution Hackathon 2026 · 2nd place — IAckathon 2023
+- 🏆 1st place - Q-Evolution Hackathon 2026 · 2nd place - IAckathon 2023
 - 👩‍💻 Former President of the IEEE Computer Society Student Chapter at Yachay Tech
 - 📍 Ibarra, Ecuador · 🗣️ Spanish (native) · English (B2) · French (A1-A2)
 
