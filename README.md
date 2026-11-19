@@ -36,8 +36,8 @@ I like solving complex problems with data, code and AI · from research papers a
 
 ### 📄 Publications
 
-- **5G V2X communications in urban scenarios** — IEEE ETCM 2024 · [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=G9mX8W4AAAAJ&citation_for_view=G9mX8W4AAAAJ:d1gkVwhDpl0C)
-- **Adaptation dynamics of Galápagos finches** — TICEC 2024 · [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=G9mX8W4AAAAJ&citation_for_view=G9mX8W4AAAAJ:u-x6o8ySG0sC)
+- **5G V2X communications in urban scenarios** · IEEE ETCM 2024 · [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=G9mX8W4AAAAJ&citation_for_view=G9mX8W4AAAAJ:d1gkVwhDpl0C)
+- **Adaptation dynamics of Galápagos finches** · TICEC 2024 · [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=G9mX8W4AAAAJ&citation_for_view=G9mX8W4AAAAJ:u-x6o8ySG0sC)
 
 ### 🤝 Connect
 
